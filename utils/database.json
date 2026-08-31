@@ -1,0 +1,11 @@
+{
+  "applications_1543740657884078210": [
+    {
+      "application": "yen",
+      "sellerkey": "c472a1300d8733df19abc7d772db604b",
+      "id": "kxBi5Oa9KEtHu7sVGoyQSuVfOPgYbTJa"
+    }
+  ],
+  "token_1543740657884078210": "c472a1300d8733df19abc7d772db604b",
+  "licenseAdd_1543740657884078210": "{ \"days\": 99999999, \"level\": 1, \"amount\": 1, \"character\": 1, \"note\": \"support\" }"
+}
